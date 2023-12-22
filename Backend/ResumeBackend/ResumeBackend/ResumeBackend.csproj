@@ -16,7 +16,6 @@
     <Folder Include="Core\AutoMapperConfig\" />
     <Folder Include="Core\Context\" />
     <Folder Include="Core\Dtos\" />
-    <Folder Include="Core\Enums\" />
   </ItemGroup>
 
 </Project>
