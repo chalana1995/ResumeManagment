@@ -1,6 +1,9 @@
-﻿namespace ResumeBackend.Core.Context
+﻿using Microsoft.EntityFrameworkCore;
+
+namespace ResumeBackend.Core.Context
 {
-    public class ApplicationDbContext
+    public class ApplicationDbContext : DbContext
     {
+
     }
 }
