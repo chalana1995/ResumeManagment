@@ -12,7 +12,7 @@ namespace ResumeBackend.Controllers
 
         public CompanyController(ApplicationDbContext context)
         {
-            context = _context;
+            _context = context;
         }
 
 
