@@ -135,3 +135,5 @@ C:\githubproject\ResumeManagment\Backend\ResumeBackend\ResumeBackend\obj\Debug\n
 C:\githubproject\ResumeManagment\Backend\ResumeBackend\ResumeBackend\obj\Debug\net8.0\ResumeBackend.pdb
 C:\githubproject\ResumeManagment\Backend\ResumeBackend\ResumeBackend\obj\Debug\net8.0\ResumeBackend.genruntimeconfig.cache
 C:\githubproject\ResumeManagment\Backend\ResumeBackend\ResumeBackend\obj\Debug\net8.0\ref\ResumeBackend.dll
+C:\githubproject\ResumeManagment\Backend\ResumeBackend\ResumeBackend\bin\Debug\net8.0\AutoMapper.dll
+C:\githubproject\ResumeManagment\Backend\ResumeBackend\ResumeBackend\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
