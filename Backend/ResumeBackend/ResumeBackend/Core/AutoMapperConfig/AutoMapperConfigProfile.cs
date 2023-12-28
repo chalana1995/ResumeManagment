@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using ResumeBackend.Core.Dtos.Company;
+using ResumeBackend.Core.Dtos.Job;
 using ResumeBackend.Core.Entities;
 
 namespace ResumeBackend.Core.AutoMapperConfig
@@ -10,6 +11,9 @@ namespace ResumeBackend.Core.AutoMapperConfig
         {
             CreateMap<CompanyCreateDto, Company>();
             CreateMap<Company, CompanyGetDto>();
+
+            CreateMap<JobCreateDto, Job>();
+            CreateMap<Job, JobGetDto>();
         }
     }
 }
