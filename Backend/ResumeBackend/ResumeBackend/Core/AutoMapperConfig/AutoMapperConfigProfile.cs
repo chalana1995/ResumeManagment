@@ -13,7 +13,8 @@ namespace ResumeBackend.Core.AutoMapperConfig
             CreateMap<Company, CompanyGetDto>();
 
             CreateMap<JobCreateDto, Job>();
-            CreateMap<Job, JobGetDto>();
+            CreateMap<Job, JobGetDto>()
+                .ForMember(dest => dest.CompanyName, opt => opt.MapFrom(src => src.Company.Name));
         }
     }
 }
