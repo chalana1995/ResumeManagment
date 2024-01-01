@@ -4493,19 +4493,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ChalanaKalpithaBISTE\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\githubproject\\ResumeManagment\\Backend\\ResumeBackend\\ResumeBackend\\ResumeBackend.csproj",
+      "projectUniqueName": "D:\\projects2023\\ResumeManagment\\Backend\\ResumeBackend\\ResumeBackend\\ResumeBackend.csproj",
       "projectName": "ResumeBackend",
-      "projectPath": "C:\\githubproject\\ResumeManagment\\Backend\\ResumeBackend\\ResumeBackend\\ResumeBackend.csproj",
-      "packagesPath": "C:\\Users\\ChalanaKalpithaBISTE\\.nuget\\packages\\",
-      "outputPath": "C:\\githubproject\\ResumeManagment\\Backend\\ResumeBackend\\ResumeBackend\\obj\\",
+      "projectPath": "D:\\projects2023\\ResumeManagment\\Backend\\ResumeBackend\\ResumeBackend\\ResumeBackend.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "D:\\projects2023\\ResumeManagment\\Backend\\ResumeBackend\\ResumeBackend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ChalanaKalpithaBISTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4525,9 +4525,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "default"
       }
     },
     "frameworks": {
